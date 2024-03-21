@@ -1,17 +1,16 @@
-<h1 align="center">Olá! Eu sou o Luiz Henrique 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá,+👋;+Me+chamo+Luiz+Henrique!;" />
+</h1>
 
-<p align="center">
-  <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzalvesdev&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=lzalvesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22%20alt=%22GitHub%20Stats"/>
-</p>
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=lzalvesdev&show_icons=true&theme=gotham)
 
-## Sobre Mim
+## Sobre Mim 👨‍💻
 
 Me chamo Luiz. Atualmente, estou cursando Engenharia de Software. Apesar de ainda estar em formação acadêmica, sempre tive um forte interesse em programação, o que me motivou a buscar uma carreira no desenvolvimento de software.
 
 Gosto de trabalhar com diversas tecnologias e estou constantemente expandindo meus conhecimentos e habilidades. No momento, estou focado em estudar C# e .NET para aprimorar minhas capacidades de desenvolvimento de back-end. Tenho prazer em criar aplicativos intuitivos e amigáveis ao usuário, e estou sempre aprendendo e explorando novas ferramentas e frameworks.
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso no meu dia 💻
 
 ### Frontend
 <p align="center">
