@@ -33,6 +33,11 @@ Gosto de trabalhar com diversas tecnologias e estou constantemente expandindo me
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySql" height="40" width="45" />
 </p>
 
+### Cloud
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Azure" height="40" width="45" />
+</p>
+
 <hr />
 
 <div align="center">
