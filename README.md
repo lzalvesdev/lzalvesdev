@@ -8,7 +8,7 @@
 
 Me chamo Luiz. Atualmente, estou cursando Engenharia de Software. Apesar de ainda estar em formação acadêmica, sempre tive um forte interesse em programação, o que me motivou a buscar uma carreira no desenvolvimento de software.
 
-Estou sempre buscando expandir meus conhecimentos, no momento, estou focado em estudar (C# e Next) para aprimorar minhas capacidades de desenvolvimento tanto no Front quanto no Back, alem de claro por consequência, aprender novas ferramentas e frameworks.
+Estou sempre buscando expandir meus conhecimentos, no momento, estou focado em estudar (C# e React) para aprimorar minhas capacidades de desenvolvimento tanto no Front quanto no Back, alem de claro por consequência, aprender novas ferramentas e frameworks.
 
 ## Tecnologias que uso no meu dia 💻
 
