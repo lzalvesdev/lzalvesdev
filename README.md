@@ -6,7 +6,7 @@
 
 ## Sobre Mim 👨‍💻
 
-Me chamo Luiz. Atualmente, estou cursando Engenharia de Software e trabalho como desenvolvedor .NET. Sempre tive um forte interesse em programação, o que me motivou a construir uma carreira no desenvolvimento de software.
+Me chamo Luiz. Atualmente, trabalho como desenvolvedor Full Stack e estou na reta final de Engenharia de Software, ja com foco em realizar uma Pos de Arquitetura de Software. Sempre tive um interesse por computadores, o que me motivou a construir uma carreira no desenvolvimento de software.
 
 Estou sempre buscando expandir meus conhecimentos. No momento, estou focado em aprofundar conceitos de **Arquiteturas** e **microsserviços** com .NET, além de buscar certificações em cloud como forma de expandir minha visão de arquitetura e infraestrutura.
 
